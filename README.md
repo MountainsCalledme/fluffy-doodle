@@ -16,7 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-To run this Project, Open Terminal 
-git clone https://github.com/MountainsCalledme/fluffy-doodle.git
-cd fluffy-doodle
-flutter run
+To run this Project, 
+- Open Terminal 
+- git clone https://github.com/MountainsCalledme/fluffy-doodle.git
+- cd fluffy-doodle
+- flutter run
